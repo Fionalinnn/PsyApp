@@ -1,7 +1,0 @@
-#Thu Sep 13 08:39:09 CST 2018
-base.0=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes2.dex
-base.1=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-file.0=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\11\\classes.dex
