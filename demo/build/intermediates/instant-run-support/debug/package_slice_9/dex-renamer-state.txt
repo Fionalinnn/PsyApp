@@ -1,0 +1,4 @@
+#Thu Sep 13 08:39:11 CST 2018
+base.0=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.0=classes.dex
+file.0=G\:\\andriodprogramme\\Neteasy sourcecode\\nim_demo3\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex

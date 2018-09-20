@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_centerInParent="true"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/buttonL1"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#ff0000"
+        android:onClick="ClickRed1" />
+
+    <Button
+        android:id="@+id/buttonL2"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#fe2e2e"
+        android:onClick="ClickRed2" />
+
+    <Button
+        android:id="@+id/buttonL3"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#fa5858"
+        android:onClick="ClickRed3" />
+
+    <Button
+        android:id="@+id/buttonL4"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#f78181"
+        android:onClick="ClickRed4" />
+
+    <Button
+        android:id="@+id/buttonL5"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#f5a9a9"
+        android:onClick="ClickRed5"/>
+
+    <Button
+        android:id="@+id/buttonR1"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#d8d8d8"
+        android:onClick="ClickBlack1"/>
+
+    <Button
+        android:id="@+id/buttonR2"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#bdbdbd"
+        android:onClick="ClickBlack2"/>
+
+    <Button
+        android:id="@+id/buttonR3"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#a4a4a4"
+        android:onClick="ClickBlack3"/>
+
+    <Button
+        android:id="@+id/buttonR4"
+        android:layout_width="36dp"
+        android:layout_height="wrap_content"
+        android:background="#848484"
+        android:onClick="ClickBlack4"/>
+</LinearLayout>

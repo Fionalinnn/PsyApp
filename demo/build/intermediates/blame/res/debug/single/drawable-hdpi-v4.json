@@ -1,0 +1,1290 @@
+[
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_logo_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_failed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_advanced_team.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_four.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_four.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_team_announce.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\bg_team_announce.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_off.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_zip.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_zip.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_new_message_notify.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_announce.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\no_announce.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_gif.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_gif.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_50.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_on.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_secretary.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_secretary.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_open.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_audio_open.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_white_round_button.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_grey_delete_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_word.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_word.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_arrow_right.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dropdown_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp3.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_mp3.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_red_packet_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\message_plus_red_packet_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_selected.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_search_actionbar_back.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-search-v4.7.3.aar\\8ca3cc0fb56efa280f62422bbe9b6d8e\\res\\drawable-hdpi-v4\\avoscloud_search_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.jpg",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_2.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_html.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_html.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_png.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_png.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_announce.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_rev_press.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\red_packet_rev_press.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_rts_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_dialog_toast_bg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_login4.jpg",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\bg_login4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_58.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_58.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_green_btn_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_send_press.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\red_packet_send_press.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_download_failed.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_download_failed.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_rar.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_rar.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_one.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_one.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_pdf.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_unselected.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_rev_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\red_packet_rev_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_37.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_search_view_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_64.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_64.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nick_name_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_robot.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_robot.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_loading_small_white.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_loading_small_white.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_nomal.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_circle.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_add_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_user_reply_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\drawable-hdpi-v4\\avoscloud_feedback_user_reply_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp3.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_excel.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_excel.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_slide_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_thread_actionbar_back.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\drawable-hdpi-v4\\avoscloud_feedback_thread_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_72.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_arrow.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_black_more_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_trans_fail.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\address.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_6.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_6.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_excel.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_excel.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_sample_footer_loading.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_sample_footer_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_bg_message_tip.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_black_list.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_49.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_49.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_notify_msg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_gif.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_gif.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_txt.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_owner_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_9.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_9.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_female.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_female.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_male.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_male.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img_failed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_default_img_failed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_unknow.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_selected.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_my.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\ic_launcher_my.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_png.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_png.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_open_tip.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\red_packet_open_tip.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_notification.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\drawable-hdpi-v4\\avoscloud_feedback_notification.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat_disable.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_p2p_add.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_8.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_8.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_bg.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\welcome_bg.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_music_icon_play.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_resume.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_unread_badge.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_logo.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\about_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_unknow.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_unknow.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_admin_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_admin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_three.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_three.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_10.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_10.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_disable.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_ppt.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_jpg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_jpg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport_detail.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_7.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_7.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_default.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_avatar_default.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log_in4.xml",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\log_in4.xml"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_default.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_image_default.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_jpg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_two.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_two.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avoscloud_feedback_dev_reply_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\drawable-hdpi-v4\\avoscloud_feedback_dev_reply_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker_info_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\marker_info_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_background.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_group.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_admin_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_rar.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_rar.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_messge_history.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_ic_messge_history.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_robot_link_view_press_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_robot_link_view_press_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_master_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_master_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_pause.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_download_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backup.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_backup.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_5.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_5.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_menu_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_menu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_white_logo_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp4.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_mp4.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_robot_link_view_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_robot_link_view_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_reddot.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_reddot.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_account_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_pdf.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_close.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\rtskit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_audio_close.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_unsupport_mime_type.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_unsupport_mime_type.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_4.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_4.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_disable.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\directory.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\directory.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_verify_remind.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc01.aar\\f971a169b9b71854969d80f91a273b7d\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_36.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_36.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_3.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_3.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_edit_delete.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_explosion_five.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_explosion_five.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\e556b276220a7862ad7cb003fdf66fef\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_pwd_lock_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_zip.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_zip.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_white_round_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_rts_send.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_actionbar_robot_info.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_ic_actionbar_robot_info.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_back_icon.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_html.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_html.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_ppt.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_menu_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_ic_menu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_red_packet_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\message_plus_red_packet_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_packet_send_normal.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res-rp\\drawable-hdpi\\red_packet_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_word.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_word.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_1.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\head_icon_1.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp4.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.webp",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\login_bg.webp"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_team.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc01.aar\\f971a169b9b71854969d80f91a273b7d\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_del.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_emoji_del.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_computer.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_57.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reorder.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_reorder.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_txt.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\file_ic_session_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras_hover.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\drawable-hdpi\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]
