@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\raw\\msg.wav",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\raw\\audio_end_tip.wav",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\release\\res\\raw\\audio_end_tip.wav"
+    }
+]

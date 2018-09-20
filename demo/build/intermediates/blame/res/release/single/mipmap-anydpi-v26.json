@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26\\ic_launcher.xml",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\release\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26\\ic_launcher_round.xml",
+        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\app\\build\\intermediates\\bundles\\release\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

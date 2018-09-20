@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc01.aar\\f971a169b9b71854969d80f91a273b7d\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc01.aar\\f971a169b9b71854969d80f91a273b7d\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]
