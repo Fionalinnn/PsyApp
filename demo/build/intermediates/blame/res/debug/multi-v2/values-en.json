@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\values-en\\strings.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,95,188,282,998,642,364,455,559,728,812,906",
-                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
-                        "endOffsets": "90,183,277,359,1082,723,450,554,637,807,901,993"
-                    },
-                    "to": {
-                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,249,342,436,518,607,693,784,888,971,1055,1149",
-                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
-                        "endOffsets": "90,337,431,513,602,688,779,883,966,1050,1144,1236"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "source": "/Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/bundles/debug/res/values-en/values-en.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -35,32 +18,32 @@
                         "startOffsets": "95,145,202",
                         "endColumns": "49,56,46",
                         "endOffsets": "140,197,244"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/Desktop/PsyApp/demo/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,188,282,998,642,364,455,559,728,812,906",
+                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "90,183,277,359,1082,723,450,554,637,807,901,993"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,249,342,436,518,607,693,784,888,971,1055,1149",
+                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "90,337,431,513,602,688,779,883,966,1050,1144,1236"
                     }
                 }
             ]
         },
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/values-en/values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\values-en\\strings.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,95,188,282,998,642,364,455,559,728,812,906",
-                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
-                        "endOffsets": "90,183,277,359,1082,723,450,554,637,807,901,993"
-                    },
-                    "to": {
-                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,249,342,436,518,607,693,784,888,971,1055,1149",
-                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
-                        "endOffsets": "90,337,431,513,602,688,779,883,966,1050,1144,1236"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "source": "/Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/bundles/debug/res/values-en/values-en.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "95,145,202",
                         "endColumns": "49,56,46",
                         "endOffsets": "140,197,244"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/Desktop/PsyApp/demo/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,188,282,998,642,364,455,559,728,812,906",
+                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "90,183,277,359,1082,723,450,554,637,807,901,993"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,249,342,436,518,607,693,784,888,971,1055,1149",
+                        "endColumns": "39,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "90,337,431,513,602,688,779,883,966,1050,1144,1236"
                     }
                 }
             ]

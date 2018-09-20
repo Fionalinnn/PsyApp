@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\layout-ur\\upsdk_app_dl_progress_dialog.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\cff641d3232c9ea4d27cd53d8cbc9490\\res\\layout-ur\\upsdk_app_dl_progress_dialog.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/layout-ur/upsdk_ota_update_view.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/res/layout-ur/upsdk_ota_update_view.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\layout-ur\\upsdk_ota_update_view.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\cff641d3232c9ea4d27cd53d8cbc9490\\res\\layout-ur\\upsdk_ota_update_view.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/layout-ur/upsdk_app_dl_progress_dialog.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/res/layout-ur/upsdk_app_dl_progress_dialog.xml"
     }
 ]

@@ -1,0 +1,1921 @@
+-- Merging decision tree log ---
+meta-data#com.amap.api.v2.apikey
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:80:9-82:43
+	android:value
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:82:13-40
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:81:13-50
+manifest
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+MERGED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-164:12
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-79:12
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-push-v4.7.3.aar/d7026f370c4ad0c794fe263fdf0829ea/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:2:1-19:12
+MERGED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/23d2c90f175005ab56694e6b5b98f54f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3c2de95b35d2a9592b3f15398ef86cc1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:16:1-21:12
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:2:1-34:12
+MERGED from [com.huawei.android.hms:push:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/a92fa3336499ffa70c9e781410b09e58/AndroidManifest.xml:2:1-9:12
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:2:1-17:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/ee9d9f278f5843a9c4ed5038970ab400/AndroidManifest.xml:17:1-22:12
+MERGED from [me.everything:overscroll-decor-android:1.0.4] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/overscroll-decor-android-1.0.4.aar/c18390db739a8778742e77c8fa5e4f67/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/80493be16521dc0f6580dcc6bab894b8/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/c64350d0f696327a88447fd6be278144/AndroidManifest.xml:2:1-11:12
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/glide-transformations-3.0.1.aar/0613214212cda4fbeb83313efe04ec60/AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.1.17.aar/20c2da2d84b96f0392ae03f302afb588/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/7e6ef8b471f8949a18639240cbca0565/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/3ae4ef3c9378e07255cacf3abaa5a84d/AndroidManifest.xml:17:1-22:12
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/AndroidManifest.xml:2:1-11:12
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:2:1-16:12
+MERGED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:2:1-16:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e49c7ec921c0c689403564d3278c8c9e/AndroidManifest.xml:2:1-11:12
+MERGED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e88c63bc4bc5aa65acc4e88cbb1a7a6c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/01d92d891aa89bab76b7a3a2e62e74a0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/484e303716ea087b3064c94008a1b8ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fcc568bbef950c484d44d876b16fcd2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/e933a45132134f9eabe32b24de88182a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/57ac6f4c9a7a4e3ae684878c4eabf4d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/0a5e2922594be5408920ede8c4f9e8a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/083dbea69ab29d5777716243e3bac2e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2cf7610486ef92fd1c187caa8849bd97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/085209f3ad8a52c81dca2042ee518731/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a5979618dfbcf97b70acb4d145026a1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4def5a5306359df01bca88b052b45c61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/e0dbb020f37ca93ebdcc6e1163c3e1d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/69873a1683059398d637009227b683dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/06f89c6ba72118955d8392ffff428e24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/68d7ad45ea383375f458794a2284c8cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/76a12a8cda5ba6a04422c2b93442d0e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1677a947f1d033d7bb6d94a68fc427bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/c5ea989512dbbf9ac2821480ba753698/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a3d6431631d05b7d410634fa8045a91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/639e98a850da7c102223103a9ffc00a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cee655a0b844ddee2ad110e302b3fbe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/cb94e04fb896707f756a893e42cb752f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/eda4a4a6041fc52f8253492c4da9391a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0fef2f38acaccf73eda915a7e2058240/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/23ab7327d23c2a42262daf7ea343f7df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/1ad733e20ed39f95f39d98a7cd75d180/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/dbea92932979ba3b0fad966509a81d40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/a3cd8e2ba4faeb0c8f267ea158e06a71/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/7643238b86cde3b39e9d96ac15f7858f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/05275d6568b7cf4b41234794e42c26ec/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/0eaaffb8710827929139e274f52f1cdd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/8efd09be0a0ab907c56f32cad3f8190b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/38cb89e3af76d567f5c887fbac9e1a65/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+	package
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:4:11-41
+	android:versionName
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:1-540:12
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:5:11-41
+uses-permission#android.permission.INTERNET
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:9:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:11:5-67
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:20:5-66
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:11:5-67
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:10:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:13:5-79
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:19:5-78
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:14:5-79
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:11:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:16:5-76
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:15:5-80
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:14:5-80
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:16:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:15:5-81
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:21:5-89
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:21:22-86
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:24:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:12:5-75
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:24:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:25:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:27:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:28:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:31:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:32:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:33:5-66
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:13:5-66
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:33:22-63
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:34:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:35:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:36:5-73
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:36:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:38:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:39:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:39:22-65
+permission#com.netease.nim.demo.permission.RECEIVE_MSG
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:43:5-45:47
+	android:protectionLevel
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:45:9-44
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:44:9-67
+uses-permission#com.netease.nim.demo.permission.RECEIVE_MSG
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:48:5-83
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:48:22-80
+permission#com.netease.nim.demo.permission.MIPUSH_RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:51:5-53:47
+	android:protectionLevel
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:53:9-44
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:52:9-70
+uses-permission#com.netease.nim.demo.permission.MIPUSH_RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:54:5-86
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:54:22-83
+uses-sdk
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+MERGED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-push-v4.7.3.aar/d7026f370c4ad0c794fe263fdf0829ea/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-push-v4.7.3.aar/d7026f370c4ad0c794fe263fdf0829ea/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:7:5-43
+MERGED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/23d2c90f175005ab56694e6b5b98f54f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/23d2c90f175005ab56694e6b5b98f54f/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3c2de95b35d2a9592b3f15398ef86cc1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3c2de95b35d2a9592b3f15398ef86cc1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:17:5-43
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:push:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/a92fa3336499ffa70c9e781410b09e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:push:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/a92fa3336499ffa70c9e781410b09e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/ee9d9f278f5843a9c4ed5038970ab400/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/ee9d9f278f5843a9c4ed5038970ab400/AndroidManifest.xml:20:5-44
+MERGED from [me.everything:overscroll-decor-android:1.0.4] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/overscroll-decor-android-1.0.4.aar/c18390db739a8778742e77c8fa5e4f67/AndroidManifest.xml:8:5-10:41
+MERGED from [me.everything:overscroll-decor-android:1.0.4] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/overscroll-decor-android-1.0.4.aar/c18390db739a8778742e77c8fa5e4f67/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/80493be16521dc0f6580dcc6bab894b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/80493be16521dc0f6580dcc6bab894b8/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/c64350d0f696327a88447fd6be278144/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/c64350d0f696327a88447fd6be278144/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/glide-transformations-3.0.1.aar/0613214212cda4fbeb83313efe04ec60/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:3.0.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/glide-transformations-3.0.1.aar/0613214212cda4fbeb83313efe04ec60/AndroidManifest.xml:8:5-10:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.1.17.aar/20c2da2d84b96f0392ae03f302afb588/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.1.17.aar/20c2da2d84b96f0392ae03f302afb588/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/7e6ef8b471f8949a18639240cbca0565/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/7e6ef8b471f8949a18639240cbca0565/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/3ae4ef3c9378e07255cacf3abaa5a84d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/3ae4ef3c9378e07255cacf3abaa5a84d/AndroidManifest.xml:20:5-44
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:27:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e49c7ec921c0c689403564d3278c8c9e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e49c7ec921c0c689403564d3278c8c9e/AndroidManifest.xml:5:5-7:41
+MERGED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e88c63bc4bc5aa65acc4e88cbb1a7a6c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e88c63bc4bc5aa65acc4e88cbb1a7a6c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/01d92d891aa89bab76b7a3a2e62e74a0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/01d92d891aa89bab76b7a3a2e62e74a0/AndroidManifest.xml:4:5-43
+MERGED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/484e303716ea087b3064c94008a1b8ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/484e303716ea087b3064c94008a1b8ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fcc568bbef950c484d44d876b16fcd2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/fcc568bbef950c484d44d876b16fcd2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/e933a45132134f9eabe32b24de88182a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/e933a45132134f9eabe32b24de88182a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/57ac6f4c9a7a4e3ae684878c4eabf4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/57ac6f4c9a7a4e3ae684878c4eabf4d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/0a5e2922594be5408920ede8c4f9e8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/0a5e2922594be5408920ede8c4f9e8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/083dbea69ab29d5777716243e3bac2e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/083dbea69ab29d5777716243e3bac2e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2cf7610486ef92fd1c187caa8849bd97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2cf7610486ef92fd1c187caa8849bd97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/085209f3ad8a52c81dca2042ee518731/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/085209f3ad8a52c81dca2042ee518731/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a5979618dfbcf97b70acb4d145026a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a5979618dfbcf97b70acb4d145026a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4def5a5306359df01bca88b052b45c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4def5a5306359df01bca88b052b45c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/e0dbb020f37ca93ebdcc6e1163c3e1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/e0dbb020f37ca93ebdcc6e1163c3e1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/69873a1683059398d637009227b683dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/69873a1683059398d637009227b683dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/06f89c6ba72118955d8392ffff428e24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/06f89c6ba72118955d8392ffff428e24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/68d7ad45ea383375f458794a2284c8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/68d7ad45ea383375f458794a2284c8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/76a12a8cda5ba6a04422c2b93442d0e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/76a12a8cda5ba6a04422c2b93442d0e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1677a947f1d033d7bb6d94a68fc427bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1677a947f1d033d7bb6d94a68fc427bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/c5ea989512dbbf9ac2821480ba753698/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/c5ea989512dbbf9ac2821480ba753698/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a3d6431631d05b7d410634fa8045a91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4a3d6431631d05b7d410634fa8045a91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/639e98a850da7c102223103a9ffc00a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/639e98a850da7c102223103a9ffc00a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cee655a0b844ddee2ad110e302b3fbe1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cee655a0b844ddee2ad110e302b3fbe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/cb94e04fb896707f756a893e42cb752f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/cb94e04fb896707f756a893e42cb752f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/eda4a4a6041fc52f8253492c4da9391a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/eda4a4a6041fc52f8253492c4da9391a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0fef2f38acaccf73eda915a7e2058240/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/0fef2f38acaccf73eda915a7e2058240/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/23ab7327d23c2a42262daf7ea343f7df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/23ab7327d23c2a42262daf7ea343f7df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/1ad733e20ed39f95f39d98a7cd75d180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/1ad733e20ed39f95f39d98a7cd75d180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/dbea92932979ba3b0fad966509a81d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/dbea92932979ba3b0fad966509a81d40/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/a3cd8e2ba4faeb0c8f267ea158e06a71/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/a3cd8e2ba4faeb0c8f267ea158e06a71/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/7643238b86cde3b39e9d96ac15f7858f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/7643238b86cde3b39e9d96ac15f7858f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/05275d6568b7cf4b41234794e42c26ec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/05275d6568b7cf4b41234794e42c26ec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/0eaaffb8710827929139e274f52f1cdd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/0eaaffb8710827929139e274f52f1cdd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/8efd09be0a0ab907c56f32cad3f8190b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/8efd09be0a0ab907c56f32cad3f8190b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/38cb89e3af76d567f5c887fbac9e1a65/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/38cb89e3af76d567f5c887fbac9e1a65/AndroidManifest.xml:4:5-43
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+	tools:overrideLibrary
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:15-94
+	android:targetSdkVersion
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:56:5-97
+		INJECTED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml
+uses-permission#com.meizu.flyme.push.permission.RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:60:22-76
+permission#com.netease.nim.demo.push.permission.MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:61:5-62:54
+	android:protectionLevel
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:62:17-52
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:61:17-76
+uses-permission#com.netease.nim.demo.push.permission.MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:63:5-84
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:63:22-81
+uses-permission#com.meizu.c2dm.permission.RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:65:5-73
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:65:22-70
+permission#com.netease.nim.demo.permission.C2D_MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:66:5-67:55
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:67:17-52
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:66:17-75
+uses-permission#com.netease.nim.demo.permission.C2D_MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:68:5-82
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:68:22-80
+application
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:70:5-538:19
+MERGED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-162:19
+MERGED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-162:19
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-77:19
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-77:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:11:5-17:19
+MERGED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-30:19
+MERGED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/23d2c90f175005ab56694e6b5b98f54f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/23d2c90f175005ab56694e6b5b98f54f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:18:5-32:19
+MERGED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:18:5-32:19
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:11:5-15:19
+MERGED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/c64350d0f696327a88447fd6be278144/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/c64350d0f696327a88447fd6be278144/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/7e6ef8b471f8949a18639240cbca0565/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/7e6ef8b471f8949a18639240cbca0565/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:19:5-21:19
+MERGED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:11:5-14:19
+MERGED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:11:5-14:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/ffc63c32eafc3a7b9130d9019187d8b4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/50d53a6acfedee8e4384fe82a79fd1b2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/1fbfa8aa53bb6ab1e00e93f7f769c28e/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/06add5a32cac2f1c763d63b1109c27d3/AndroidManifest.xml:31:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e49c7ec921c0c689403564d3278c8c9e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e49c7ec921c0c689403564d3278c8c9e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e88c63bc4bc5aa65acc4e88cbb1a7a6c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e88c63bc4bc5aa65acc4e88cbb1a7a6c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/01d92d891aa89bab76b7a3a2e62e74a0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/01d92d891aa89bab76b7a3a2e62e74a0/AndroidManifest.xml:5:5-20
+MERGED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:9:5-21:19
+MERGED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/cb94e04fb896707f756a893e42cb752f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/cb94e04fb896707f756a893e42cb752f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/a3cd8e2ba4faeb0c8f267ea158e06a71/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/a3cd8e2ba4faeb0c8f267ea158e06a71/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/7643238b86cde3b39e9d96ac15f7858f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/7643238b86cde3b39e9d96ac15f7858f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/05275d6568b7cf4b41234794e42c26ec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/05275d6568b7cf4b41234794e42c26ec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/0eaaffb8710827929139e274f52f1cdd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/0eaaffb8710827929139e274f52f1cdd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/8efd09be0a0ab907c56f32cad3f8190b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/8efd09be0a0ab907c56f32cad3f8190b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/38cb89e3af76d567f5c887fbac9e1a65/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/38cb89e3af76d567f5c887fbac9e1a65/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [com.netease.nimlib:jsbridge:1.3.1] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/c93eae0d61838a526e313ca4eddaee01/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:74:9-41
+	android:icon
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:73:9-48
+	android:allowBackup
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:72:9-35
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:75:9-40
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:71:9-39
+meta-data#com.netease.nim.appKey
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:84:9-86:55
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:86:4-52
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:85:13-50
+uses-library#com.google.android.maps
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:88:9-90:40
+	android:required
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:89:13-51
+meta-data#JRMF_PARTNER_NAME
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:93:9-95:36
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:95:13-33
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:94:13-45
+meta-data#android.max_aspect
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:98:9-100:35
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:100:13-32
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:99:13-46
+activity#com.netease.nim.demo.main.activity.WelcomeActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:103:9-118:20
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:107:13-45
+	android:launchMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:108:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:106:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:111:13-52
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:105:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:110:13-65
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:104:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:112:13-117:29
+action#android.intent.action.MAIN
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:113:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:115:17-77
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:115:27-74
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:116:17-89
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:116:27-86
+activity#com.example.vm510lf.psyapp.SplashActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:121:9-87
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:9-36:47
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:34:9-36:47
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:121:19-75
+activity#com.example.vm510lf.psyapp.LogInActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:122:9-86
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-18:20
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-18:20
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:122:19-74
+activity#com.example.vm510lf.psyapp.StudentPortActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:123:9-92
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:9-25:20
+MERGED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:9-25:20
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:123:19-80
+activity#com.netease.nim.demo.main.activity.MainActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:127:9-134:55
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:131:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:130:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:134:13-52
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:129:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:133:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:128:13-55
+activity#com.netease.nim.demo.main.activity.MultiportActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:137:9-142:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:140:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:142:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:139:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:138:13-60
+activity#com.netease.nim.demo.login.LoginActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:145:9-151:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:148:13-42
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:151:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:147:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:150:13-46
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:146:13-48
+activity#com.netease.nim.demo.main.activity.AboutActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:154:9-160:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:157:13-42
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:160:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:156:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:159:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:155:13-56
+activity#com.netease.nim.demo.main.activity.SettingsActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:162:9-167:63
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:165:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:167:13-60
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:164:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:166:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:163:13-59
+activity#com.netease.nim.demo.main.activity.NoDisturbActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:169:9-174:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:172:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:174:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:171:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:173:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:170:13-60
+activity#com.netease.nim.demo.contact.activity.AddFriendActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:176:9-181:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:179:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:181:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:178:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:180:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:177:13-63
+activity#com.netease.nim.demo.contact.activity.UserProfileActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:183:9-188:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:186:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:188:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:185:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:187:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:184:13-65
+activity#com.netease.nim.demo.contact.activity.UserProfileSettingActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:190:9-195:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:193:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:195:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:192:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:194:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:191:13-72
+activity#com.netease.nim.demo.contact.activity.UserProfileEditItemActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:197:9-202:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:200:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:202:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:199:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:201:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:198:13-73
+activity#com.netease.nim.demo.contact.activity.BlackListActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:204:9-209:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:207:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:209:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:206:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:208:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:205:13-63
+activity#com.netease.nim.demo.file.browser.FileBrowserActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:212:9-218:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:216:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:215:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:218:13-72
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:214:13-48
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:217:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:213:13-61
+activity#com.netease.nim.demo.main.activity.SystemMessageActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:220:9-225:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:223:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:225:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:222:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:224:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:221:13-64
+activity#com.netease.nim.demo.main.activity.CustomNotificationActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:226:9-231:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:229:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:231:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:228:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:230:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:227:13-69
+activity#com.netease.nim.demo.session.activity.MessageHistoryActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:232:9-237:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:235:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:237:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:234:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:236:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:233:13-68
+activity#com.netease.nim.demo.session.activity.MessageInfoActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:238:9-243:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:241:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:243:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:240:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:242:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:239:13-65
+activity#com.netease.nim.demo.team.activity.AdvancedTeamSearchActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:245:9-250:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:248:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:250:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:247:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:249:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:246:13-69
+activity#com.netease.nim.demo.team.activity.AdvancedTeamJoinActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:252:9-257:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:255:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:257:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:254:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:256:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:253:13-67
+activity#com.netease.nim.demo.main.activity.TeamListActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:259:9-264:67
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:262:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:264:13-64
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:261:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:263:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:260:13-59
+activity#com.netease.nim.demo.main.activity.GlobalSearchActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:267:9-272:62
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:270:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:272:13-59
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:269:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:271:13-52
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:268:13-63
+activity#com.netease.nim.demo.main.activity.GlobalSearchDetailActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:274:9-278:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:277:13-49
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:276:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:278:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:275:13-69
+activity#com.netease.nim.demo.main.activity.GlobalSearchDetailActivity2
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:280:9-284:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:283:13-49
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:282:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:284:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:281:13-70
+activity#com.netease.nim.demo.session.activity.WatchSnapChatPictureActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:287:9-290:59
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:289:13-51
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:290:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:288:13-74
+activity#com.netease.nim.demo.session.activity.FileDownloadActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:293:9-296:59
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:295:13-51
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:296:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:294:13-66
+activity#com.netease.nim.demo.location.activity.LocationAmapActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:299:9-304:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:303:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:302:13-49
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:301:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:304:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:300:13-67
+activity#com.netease.nim.demo.location.activity.NavigationAmapActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:305:9-310:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:309:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:308:13-54
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:307:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:310:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:306:13-69
+activity#com.netease.nim.demo.session.search.SearchMessageActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:313:9-318:72
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:316:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:318:13-69
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:315:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:317:13-52
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:314:13-65
+activity#com.netease.nim.demo.session.search.DisplayMessageActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:320:9-325:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:323:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:325:13-67
+	android:configChanges
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:322:13-63
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:324:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:321:13-66
+activity#com.netease.nim.demo.chatroom.activity.ChatRoomActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:328:9-332:70
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:330:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:332:13-67
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:331:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:329:13-63
+activity#com.netease.nim.demo.jsbridge.JsBridgeActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:334:9-339:75
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:337:13-49
+	android:label
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:336:13-46
+	android:windowSoftInputMode
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:339:13-72
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:338:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:335:13-54
+activity#com.netease.nim.demo.main.activity.RobotListActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:342:9-345:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:344:13-49
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:345:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:343:13-60
+activity#com.netease.nim.demo.session.activity.SendAckMsgActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:348:9-350:65
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:349:19-55
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:350:19-62
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:348:19-70
+activity#com.netease.nim.demo.session.activity.AckMsgInfoActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:353:9-355:65
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:354:19-55
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:355:19-62
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:353:19-70
+activity#com.netease.nim.demo.contact.activity.RobotProfileActivity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:357:9-360:59
+	android:screenOrientation
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:359:13-49
+	android:theme
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:360:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:358:13-66
+service#com.netease.nimlib.service.NimService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:363:9-365:39
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:365:13-36
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:364:13-65
+service#com.netease.nimlib.service.NimService$Aux
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:368:9-370:39
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:370:13-36
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:369:13-69
+service#com.netease.nimlib.job.NIMJobService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:373:9-377:39
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:377:13-36
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:375:13-36
+	android:permission
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:376:13-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:374:13-64
+receiver#com.netease.nimlib.service.NimReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:380:9-388:20
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:383:13-36
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:382:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:381:13-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:384:13-387:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:385:17-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:385:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:386:17-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:386:25-76
+receiver#com.netease.nimlib.service.ResponseReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:391:9-80
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:391:19-77
+service#com.netease.nimlib.service.ResponseService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:394:9-78
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:394:18-75
+provider#com.netease.nimlib.ipc.NIMContentProvider
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:398:9-402:39
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:402:13-36
+	android:authorities
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:400:13-68
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:401:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:399:13-69
+receiver#com.netease.nim.demo.receiver.CustomNotificationReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:406:9-413:20
+	android:enabled
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:408:13-35
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:409:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:407:13-64
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:410:13-412:29
+action#com.netease.nim.demo.ACTION.RECEIVE_CUSTOM_NOTIFICATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:411:17-98
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:411:25-95
+service#com.xiaomi.push.service.XMJobService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:416:9-421:42
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:421:13-39
+	android:enabled
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:418:13-35
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:419:13-37
+	android:permission
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:420:13-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:417:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:423:9-426:42
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:426:13-39
+	android:enabled
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:425:13-35
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:424:13-65
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:428:9-435:20
+	android:process
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:431:13-39
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:430:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:429:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:432:13-434:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:433:17-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:433:25-66
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:437:9-444:20
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:439:13-36
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:438:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:440:13-443:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:442:17-76
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:442:27-73
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:446:9-449:39
+	android:enabled
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:448:13-35
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:449:13-36
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:447:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:451:9-453:38
+	android:enabled
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:453:13-35
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:452:13-70
+receiver#com.netease.nimlib.mixpush.mi.MiPushReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:455:9-463:20
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:457:13-36
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:456:13-72
+intent-filter#com.xiaomi.mipush.ERROR+com.xiaomi.mipush.MESSAGE_ARRIVED+com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:458:13-462:29
+	android:priority
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:458:28-57
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:459:17-76
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:459:25-73
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:460:17-76
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:460:25-73
+action#com.xiaomi.mipush.ERROR
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:461:17-66
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:461:25-63
+meta-data#com.huawei.hms.client.appid
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:467:9-469:41
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:469:13-38
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:468:13-55
+provider#com.huawei.hms.update.provider.UpdateProvider
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:471:9-475:50
+	android:grantUriPermissions
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:475:13-47
+	android:authorities
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:473:13-75
+	android:exported
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:474:13-37
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:472:13-73
+receiver#com.netease.nimlib.mixpush.hw.HWPushReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:478:9-492:20
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:478:19-78
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.intent.action.PUSH_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:479:13-488:29
+	android:priority
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:479:28-57
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:481:17-86
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:481:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:483:17-81
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:483:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:485:17-79
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:485:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:487:17-78
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:487:25-75
+meta-data#CS_cloud_ablitity
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:489:13-491:56
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:491:17-53
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:490:17-49
+receiver#com.huawei.hms.support.api.push.PushEventReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:494:9-499:20
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:494:19-83
+intent-filter#com.huawei.intent.action.PUSH
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:495:13-498:29
+action#com.huawei.intent.action.PUSH
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:497:17-72
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:497:25-69
+service#com.amap.api.location.APSService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:502:9-68
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:502:18-65
+service#com.netease.nimlib.mixpush.fcm.FCMTokenService
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:505:9-509:19
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:505:18-79
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:506:13-508:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:507:17-80
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:507:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:512:9-514:63
+	android:resource
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:514:13-60
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:513:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:515:9-517:59
+	android:resource
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:517:13-56
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:516:13-84
+receiver#com.netease.nimlib.mixpush.mz.MZPushReceiver
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:520:9-533:20
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:520:19-78
+intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.netease.nim.demo
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:521:13-532:29
+	android:priority
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:521:28-57
+action#com.meizu.flyme.push.intent.MESSAGE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:523:17-78
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:523:25-75
+action#com.meizu.flyme.push.intent.REGISTER.FEEDBACK
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:525:17-88
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:525:25-85
+action#com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:527:17-90
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:527:25-87
+action#com.meizu.c2dm.intent.REGISTRATION
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:529:17-77
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:529:25-74
+action#com.meizu.c2dm.intent.RECEIVE
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:530:17-72
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:530:25-69
+category#com.netease.nim.demo
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:531:17-65
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:531:27-62
+meta-data#io.fabric.ApiKey
+ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:535:9-537:72
+	android:value
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:537:13-69
+	android:name
+		ADDED from /Users/liangchao/Desktop/PsyApp/demo/AndroidManifest.xml:536:13-44
+meta-data#com.netease.nim.uikit.support.glide.NIMGlideModule
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-78
+activity#com.netease.nim.uikit.business.session.activity.P2PMessageActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-26:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-94
+activity#com.netease.nim.uikit.business.session.activity.TeamMessageActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:9-32:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-95
+activity#com.netease.nim.uikit.business.team.activity.NormalTeamInfoActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:9-40:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:13-95
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamInfoActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:9-46:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:13-97
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamMemberActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:9-52:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:50:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:52:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-99
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamAnnounceActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-58:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:58:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:55:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:54:13-101
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamMemberInfoActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:59:9-64:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:64:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:13-103
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamNicknameActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:65:9-70:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:68:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:70:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:67:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:66:13-101
+activity#com.netease.nim.uikit.business.team.activity.AdvancedTeamCreateAnnounceActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:9-76:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:76:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:73:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:72:13-107
+activity#com.netease.nim.uikit.business.team.activity.TeamPropertySettingActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:77:9-82:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:80:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:82:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:79:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:78:13-100
+activity#com.netease.nim.uikit.business.contact.selector.activity.ContactSelectActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:85:9-91:67
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:88:13-53
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:91:13-64
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:87:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:86:13-106
+activity#com.netease.nim.uikit.business.ait.selector.AitContactSelectorActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:94:9-97:59
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:96:13-49
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:97:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:95:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickImageActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:100:9-103:59
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:103:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:101:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.CropImageActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:104:9-107:59
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:106:13-49
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:107:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:105:13-96
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:108:9-111:59
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:109:13-98
+activity#com.netease.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:112:9-115:59
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:115:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:113:13-105
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromLocalActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:116:9-121:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:119:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:121:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:118:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:120:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:117:13-108
+activity#com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:122:9-128:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:125:13-53
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:128:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:124:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:127:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:123:13-109
+activity#com.netease.nim.uikit.business.session.activity.CaptureVideoActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:131:9-136:70
+	android:screenOrientation
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:136:13-67
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:133:13-63
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:135:13-56
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:132:13-96
+activity#com.netease.nim.uikit.business.session.activity.WatchVideoActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:137:9-141:48
+	android:label
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:140:13-47
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:139:13-74
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:141:13-45
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:138:13-94
+activity#com.netease.nim.uikit.business.session.activity.WatchMessagePictureActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:144:9-147:48
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:146:13-51
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:147:13-45
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:145:13-103
+activity#com.netease.nim.uikit.business.session.activity.WatchPicAndVideoMenuActivity
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:148:9-151:48
+	android:configChanges
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:150:13-51
+	android:theme
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:151:13-45
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:149:13-104
+provider#com.netease.nim.uikit.common.media.picker.model.GenericFileProvider
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:153:9-161:20
+	android:grantUriPermissions
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:157:13-47
+	android:authorities
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:155:13-73
+	android:exported
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:156:13-37
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:154:13-95
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:158:13-160:58
+	android:resource
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:160:17-55
+	android:name
+		ADDED from [:uikit] /Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/manifests/full/debug/AndroidManifest.xml:159:17-67
+intent-filter#android.intent.action.MAINPAGE
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-17:29
+action#android.intent.action.MAINPAGE
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:17-73
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:25-70
+intent-filter#BackStudentPortActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:13-24:29
+action#BackStudentPortActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:17-66
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:25-63
+activity#com.example.vm510lf.psyapp.BookActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:13-39
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:13-64
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:13-67
+activity#com.example.vm510lf.psyapp.MyLeanCloudApp
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:9-78
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:19-75
+activity#com.example.vm510lf.psyapp.WebBookActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:9-79
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:19-76
+activity#com.example.vm510lf.psyapp.ReadingActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:19-76
+activity#com.example.vm510lf.psyapp.TestActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-33
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-64
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-67
+activity#com.example.vm510lf.psyapp.PaperActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:9-77
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:19-74
+activity#com.example.vm510lf.psyapp.AnalyzeActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:9-79
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:19-76
+activity#com.example.vm510lf.psyapp.ArticleActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:9-79
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:44:19-76
+activity#com.example.vm510lf.psyapp.MoodActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:9-76
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:45:19-73
+activity#com.example.vm510lf.psyapp.Mood2Activity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:46:9-49:59
+	android:label
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:48:13-44
+	android:theme
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:47:13-68
+activity#com.example.vm510lf.psyapp.MyQuestionActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:50:9-82
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:50:19-79
+activity#com.example.vm510lf.psyapp.QuestionAnswerActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:51:9-86
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:51:19-83
+activity#com.example.vm510lf.psyapp.QuestionListActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:52:9-84
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:52:19-81
+activity#com.example.vm510lf.psyapp.ToQuestionActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:53:19-79
+service#com.avos.avoscloud.PushService
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:58:9-66
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:58:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:9-66:20
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:60:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:61:13-65:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:63:25-74
+activity#com.avos.avoscloud.feedback.ThreadActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:9-79
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:71:19-76
+activity#com.example.vm510lf.psyapp.AnswerListActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:9-82
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:74:19-79
+activity#com.example.vm510lf.psyapp.MyAnswerActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:75:9-80
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:75:19-77
+activity#com.example.vm510lf.psyapp.ReadListActivity
+ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:76:9-80
+	android:name
+		ADDED from [:app] /Users/liangchao/Desktop/PsyApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:76:19-77
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/3868d3e5a11fad6c9d671b46d4b40dbf/AndroidManifest.xml:13:13-75
+activity#com.netease.nim.rtskit.activity.RTSActivity
+ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-19:63
+	android:screenOrientation
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-49
+	android:launchMode
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-48
+	android:windowSoftInputMode
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:13-60
+	android:theme
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-71
+receiver#com.netease.nimlib.receiver.RTSBroadcastReceiver
+ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:9-29:20
+	android:enabled
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:13-76
+intent-filter#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:13-28:29
+action#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
+ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:17-95
+	android:name
+		ADDED from [:rtskit] /Users/liangchao/Desktop/PsyApp/rtskit/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:25-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/e384831d85ec010ad060f35af12f802c/AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/559132b3891fa4006d83c9d6adcd9fc3/AndroidManifest.xml:19:19-85
+service#com.meizu.cloud.pushsdk.NotificationService
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:19:9-21:39
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:20:13-71
+receiver#com.meizu.cloud.pushsdk.SystemReceiver
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:24:13-66
+intent-filter#android.intent.category.DEFAULT+com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:26:13-30:29
+action#com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
+ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:27:17-96
+	android:name
+		ADDED from [com.meizu.flyme.internet:push-internal:3.6.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/43b42095cdac64caab4ed1378129846e/AndroidManifest.xml:27:25-93
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/63f6458b30d9414d9788d66954b6cad2/AndroidManifest.xml:24:13-83
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/7262393cbe31b1e28f1cf04e629336e7/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0202b91f4fb64b6cb9a00f2cb837ef30/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:25:5-109
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:27:5-78
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.netease.nim.demo
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/271dc0cb01136695545ba03478b27cbb/AndroidManifest.xml:40:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/a74bbe2171555c432492a0eeeb188111/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/c7b86a570bac048a948d2cd577023bcc/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [cn.leancloud.android:avoscloud-sns:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-sns-v4.7.3.aar/e286eab33b93069762091c5d9abd5e54/AndroidManifest.xml:12:22-78
+activity#com.avos.avoscloud.search.SearchActivity
+ADDED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from [cn.leancloud.android:avoscloud-search:v4.7.3] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/AndroidManifest.xml:12:19-74
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/3b9d1688b1e72c5475c3c494fada4d0a/AndroidManifest.xml:50:22-86
+activity#com.huawei.hms.activity.BridgeActivity
+ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:10:9-20:20
+	android:excludeFromRecents
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:13:13-46
+	android:hardwareAccelerated
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:15:13-47
+	android:exported
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:14:13-37
+	android:configChanges
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:12:13-92
+	android:theme
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:16:13-61
+	android:name
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:11:13-66
+meta-data#hwc-theme
+ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:17:13-19:77
+	android:value
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:19:17-74
+	android:name
+		ADDED from [com.huawei.android.hms:base:2.6.0.301] /Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/AndroidManifest.xml:18:17-41

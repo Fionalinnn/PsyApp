@@ -1,42 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0-rc01.aar\\f971a169b9b71854969d80f91a273b7d\\res\\color-v23\\design_tint_password_toggle.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/color-v23/abc_tint_default.xml"
     }
 ]

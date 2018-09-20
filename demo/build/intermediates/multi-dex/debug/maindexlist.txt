@@ -873,8 +873,8 @@ com/alibaba/fastjson/support/spring/FastJsonpResponseBodyAdvice.class
 okhttp3/ResponseBody$1.class
 com/google/android/gms/common/api/internal/zzm.class
 com/google/protobuf/NullValue.class
-com/netease/nimlib/avchat/a/c/a/n.class
 com/netease/nimlib/d/d/e/c.class
+com/netease/nimlib/avchat/a/c/a/n.class
 com/alibaba/fastjson/support/jaxrs/FastJsonProvider.class
 com/google/protobuf/DescriptorProtos$MethodOptions.class
 com/netease/nim/demo/jsbridge/JavaInterfaces.class
@@ -1151,8 +1151,8 @@ okhttp3/Headers.class
 android/support/v4/app/TaskStackBuilder.class
 com/netease/nimlib/d/d/a/d.class
 okhttp3/HttpUrl$Builder.class
-com/netease/nimlib/avchat/a/c/a/b.class
 com/netease/nimlib/d/d/f/b.class
+com/netease/nimlib/avchat/a/c/a/b.class
 com/huawei/hms/support/api/entity/core/JosBaseReq.class
 com/avos/avoscloud/Messages$ReportCommand.class
 com/huawei/hms/support/api/entity/auth/AuthClearInfo.class
@@ -1181,8 +1181,8 @@ com/avos/avoscloud/Messages$DirectCommand.class
 android/support/v4/app/ActionBarDrawerToggle$Delegate.class
 com/netease/nimlib/chatroom/d/b.class
 com/huawei/hms/support/api/entity/auth/AppInfo.class
-com/netease/nimlib/rts/a/b/c/a/h.class
 com/netease/nrtc/monitor/statistics/b/a/f.class
+com/netease/nimlib/rts/a/b/c/a/h.class
 com/google/protobuf/DescriptorProtos$SourceCodeInfo.class
 android/support/v4/database/DatabaseUtilsCompat.class
 com/alibaba/fastjson/support/spring/FastJsonpHttpMessageConverter4.class
@@ -1335,8 +1335,8 @@ com/avos/avoscloud/AVInstallation.class
 com/netease/nimlib/document/a/b/b/a/b.class
 android/support/v4/app/FragmentManager.class
 com/netease/nimlib/d/d/g/m.class
-com/amap/api/col/et.class
 com/netease/nimlib/rts/a/b/c/a/c.class
+com/amap/api/col/et.class
 com/squareup/picasso/Picasso.class
 com/bumptech/glide/request/target/FixedSizeDrawable.class
 com/huawei/hms/core/aidl/ResponseHeader.class

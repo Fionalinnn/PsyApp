@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\cff641d3232c9ea4d27cd53d8cbc9490\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\values-or\\values-or.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5926",
-                        "endColumns": "100",
-                        "endOffsets": "6022"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ce7a2af381f02f294a19929770e85d5c\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/a92fa3336499ffa70c9e781410b09e58/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5926",
+                        "endColumns": "100",
+                        "endOffsets": "6022"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,10 +74,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\values-or\\values-or.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.6.0.301.aar\\cff641d3232c9ea4d27cd53d8cbc9490\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/3bcbe825573f042253525642ce79eea7/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,24 +94,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-rc01.aar\\a40e75870af27ebf9510b383c716cefb\\res\\values-or\\values-or.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "56",
-                        "startColumns": "4",
-                        "startOffsets": "5926",
-                        "endColumns": "100",
-                        "endOffsets": "6022"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\push-2.6.0.301.aar\\ce7a2af381f02f294a19929770e85d5c\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/a92fa3336499ffa70c9e781410b09e58/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -128,7 +111,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\values-or\\values-or.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/b26c9517f1893e06010510a0b106b33e/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5926",
+                        "endColumns": "100",
+                        "endOffsets": "6022"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

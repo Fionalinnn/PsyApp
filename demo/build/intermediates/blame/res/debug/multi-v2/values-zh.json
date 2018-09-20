@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-search-v4.7.3.aar\\8ca3cc0fb56efa280f62422bbe9b6d8e\\res\\values-zh\\values-zh.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\values-zh\\values-zh.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-search-v4.7.3.aar\\8ca3cc0fb56efa280f62422bbe9b6d8e\\res\\values-zh\\values-zh.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -53,7 +53,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-v4.7.3.aar\\822513d5df0c887318447fcb078ddfcc\\res\\values-zh\\values-zh.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

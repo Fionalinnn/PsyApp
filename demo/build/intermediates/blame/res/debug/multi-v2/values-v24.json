@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\values-v24\\values-v24.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-rc01.aar\\73296379f3abf7f544525c115c0af398\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/e933a45132134f9eabe32b24de88182a/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,25 +28,25 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]
         },
         {
-            "outputFile": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0-rc01.aar\\73296379f3abf7f544525c115c0af398\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/c2bea453d47d8aa5f0bc88566a807e7f/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/e933a45132134f9eabe32b24de88182a/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -50,16 +60,6 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VM510LF\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\824bbf924e2dd04f4bdf6fa941b9bf3a\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
-        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\res\\raw\\msg.wav"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/raw/audio_end_tip.wav",
+        "source": "/Users/liangchao/Desktop/PsyApp/uikit/build/intermediates/bundles/debug/res/raw/audio_end_tip.wav"
     },
     {
-        "merged": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
-        "source": "C:\\Users\\VM510LF\\AndroidStudioProjects\\PsyApp\\uikit\\build\\intermediates\\bundles\\debug\\res\\raw\\audio_end_tip.wav"
+        "merged": "/Users/liangchao/Desktop/PsyApp/demo/build/intermediates/res/merged/debug/raw/msg.wav",
+        "source": "/Users/liangchao/Desktop/PsyApp/demo/res/raw/msg.wav"
     }
 ]
