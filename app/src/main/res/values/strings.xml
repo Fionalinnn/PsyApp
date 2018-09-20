@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">心灵之约</string>
+    <string name="write_mood">心情记录</string>
+    <string name="account_number">账号</string>
+    <string name="student_port">学生端</string>
+    <string name="teacher_port">老师端</string>
+    <string name="every_tui">每日推荐</string>
+    <string name="last_article">往期回顾</string>
+    <string name="nav_history">历史记录</string>
+    <string name="nav_collect">我的收藏</string>
+    <string name="nav_book">我的预约</string>
+    <string name="nav_settings">我的设置</string>
+    <string name="username">花花</string>
+    <string name="student_number">3160102240</string>
+    <string name="nav_away">退出登录</string>
+    <string name="main_bok">预约</string>
+    <string name="main_mood">心情</string>
+    <string name="title_text">预约</string>
+    <string name="book_test">直接预约</string>
+    <string name="book_answer">答疑解惑</string>
+    <string name="book_paper">心理测试</string>
+    <string name="main_test"> 测试</string>
+    <string name="main_read"> 阅读</string>
+    <string name="main_answer"> 提问</string>
+    <string name="test_result">您的分数是</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="week_name">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+    <string name="edit_send">发送</string>
+</resources>

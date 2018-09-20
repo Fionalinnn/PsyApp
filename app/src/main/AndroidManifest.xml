@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vm510lf.psyapp">
+
+    <application>
+
+        <activity android:name=".LogInActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAINPAGE" />
+
+
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".StudentPortActivity"
+            android:theme="@style/AppTheme">
+
+            <intent-filter>
+                <action android:name="BackStudentPortActivity" />
+
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".BookActivity"
+            android:label="预约前不再逛逛了吗？"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert">
+
+        </activity>
+        <activity android:name=".MyLeanCloudApp" />
+
+        <activity android:name=".WebBookActivity" />
+        <activity android:name=".ReadingActivity" />
+        <activity android:name=".SplashActivity"
+            android:theme="@style/AppTheme"/>
+        <activity android:name=".TestActivity"
+            android:label="温馨提示"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert">
+        </activity>
+
+        <activity android:name=".PaperActivity" />
+        <activity android:name=".AnalyzeActivity" />
+        <activity android:name=".ArticleActivity" />
+        <activity android:name=".MoodActivity" />
+        <activity android:name=".Mood2Activity"
+            android:label="心情记录（左至右心情指数递减）"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <activity android:name=".MyQuestionActivity" />
+        <activity android:name=".QuestionAnswerActivity" />
+        <activity android:name=".QuestionListActivity" />
+        <activity android:name=".ToQuestionActivity">
+
+        </activity>
+
+        <!-- 即时通讯模块、推送（均需要加入以下声明） START -->
+        <!-- 即时通讯模块、推送都要使用 PushService -->
+        <service android:name="com.avos.avoscloud.PushService" />
+
+        <receiver android:name="com.avos.avoscloud.AVBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <!-- 即时通讯模块、推送 END -->
+
+
+        <!-- 反馈组件（需要加入以下声明）START -->
+        <activity android:name="com.avos.avoscloud.feedback.ThreadActivity" />
+        <!-- 反馈组件 END -->
+
+        <activity android:name=".AnswerListActivity" />
+        <activity android:name=".MyAnswerActivity" />
+        <activity android:name=".ReadListActivity"/>
+    </application>
+
+</manifest>
