@@ -1,0 +1,32 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    apply from: 'script.gradle', to: buildscript
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven {url 'http://developer.huawei.com/repo'}
+        maven { url 'https://fabric-artifacts.s3.amazonaws.com/public' }
+        maven {
+            url "http://mvn.leancloud.cn/nexus/content/repositories/public"
+        }
+    }
+}
+
+ext {
+    compileSdkVersion = 28
+    buildToolsVersion = '28.0.2'
+    minSdkVersion = 15  //14
+    targetSdkVersion = 28
+    appTargetSdkVersion = 28  //26
+    versionCode = 52
+    versionName = '5.5.0'
+    sdkSourceCompatibility = 1.7
+    sdkTargetCompatibility = 1.7
+    appSourceCompatibility = 1.7
+    appTargetCompatibility = 1.7
+}
